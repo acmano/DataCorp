@@ -1,0 +1,16 @@
+msst1.sh DataCorp cal datas         datId    S DataCorp cal semestres smtId N DataCorp cal semestresDatasFinais
+msst1.sh DataCorp cal datas         datId    S DataCorp cal semestres smtId N DataCorp cal semestresDatasIniciais
+msst1.sh DataCorp cal trimestres    triId    S DataCorp cal semestres smtId N DataCorp cal semestresTrimestresFinais
+msst1.sh DataCorp cal trimestres    triId    S DataCorp cal semestres smtId N DataCorp cal semestresTrimestresIniciais
+msst1.sh DataCorp cal bimestres     bimId    S DataCorp cal semestres smtId N DataCorp cal semestresBimestresFinais
+msst1.sh DataCorp cal bimestres     bimId    S DataCorp cal semestres smtId N DataCorp cal semestresBimestresIniciais
+msst1.sh DataCorp cal meses         mesId    S DataCorp cal semestres smtId N DataCorp cal semestresMesesFinais
+msst1.sh DataCorp cal meses         mesId    S DataCorp cal semestres smtId N DataCorp cal semestresMesesIniciais
+msst1.sh DataCorp cal quinzenas     quiId    S DataCorp cal semestres smtId N DataCorp cal semestresQuinzenasFinais
+msst1.sh DataCorp cal quinzenas     quiId    S DataCorp cal semestres smtId N DataCorp cal semestresQuinzenasIniciais
+msst1.sh DataCorp cal semanasAnos   semAnoId S DataCorp cal semestres smtId N DataCorp cal semestresSemanasAnosFinais
+msst1.sh DataCorp cal semanasAnos   semAnoId S DataCorp cal semestres smtId N DataCorp cal semestresSemanasAnosIniciais
+msst1.sh DataCorp cal semanasMeses  semMesId S DataCorp cal semestres smtId N DataCorp cal semestresSemanasMesesFinais
+msst1.sh DataCorp cal semanasMeses  semMesId S DataCorp cal semestres smtId N DataCorp cal semestresSemanasMesesIniciais
+msst1.sh DataCorp cal dias          diaId    S DataCorp cal semestres smtId N DataCorp cal semestresDiasFinais
+msst1.sh DataCorp cal dias          diaId    S DataCorp cal semestres smtId N DataCorp cal semestresDiasIniciais
